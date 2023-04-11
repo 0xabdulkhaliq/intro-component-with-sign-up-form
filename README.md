@@ -58,6 +58,18 @@
 
 <br>
 
+## Pagespeed Insights Score:
+
+- | Scored 99.25% on Pagespeed Insights |
+  | :-----: |
+  | <img src='./images/score.webp' alt='99.25% scored on pagespeed insights'> |
+  |  |
+  | Check out [**Pagespeed Insights**](https://pagespeed.web.dev/analysis/https-0xabdulkhalid-github-io-intro-component-with-sign-up-form/opfplx6sxw?form_factor=desktop) to get live score |
+  |||
+
+<br>
+
+
 ## The challenge
 
 The challenge is to build out this FAQ accordion card and get it looking as close to the design as possible.
