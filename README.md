@@ -51,7 +51,7 @@
 
 - |||
   | :----- | :----- |
-  | Solution URL: | [🎯](#) |
+  | Solution URL: | [Intro Component with Signup Form 🎯 [ BEM - VANILLA CSS3 - JS REGEXP ]](https://www.frontendmentor.io/solutions/intro-component-with-signup-form-bem-vanilla-css3-js-regexp--yCKrQ9rw7) |
   | Live Site URL: | [https://0xabdulkhalid.github.io/intro-component-with-sign-up-form/](https://0xabdulkhalid.github.io/intro-component-with-sign-up-form/) |
   |||
 
